@@ -1,9 +1,9 @@
-package main
+package problem1
 
 import (
 	"fmt"
 )
 
-func p1_trebuchet() {
+func P1_trebuchet() {
 	fmt.Println("Trebuchet!")
 }
